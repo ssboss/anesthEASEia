@@ -35,4 +35,5 @@ data = {
 test_data = pd.DataFrame(data)
 print(test_data)
 
-test_data.to_csv('test13_data.csv', index=False)
+sys.path.append('./')
+test_data.to_csv('cases/test13_data.csv', index=False)
