@@ -3,7 +3,7 @@ HopHacks Fall 2024 Project Submission
 
 AnesthEASEia is a neural network model designed to help anesthelogists by having itadminister anesthesia to patients and be able to adapt in real time to the needs ofthe patient.
 
-Installion:
+Installion (for creation and running of ML model):
 
 Needs Python ver >= 3.12.6
 
